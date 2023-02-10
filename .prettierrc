@@ -1,5 +1,6 @@
 {
   "singleQuote": true,
+  "parser": "flow",
   "printWidth": 1000,
   "proseWrap": "always",
   "tabWidth": 2,
